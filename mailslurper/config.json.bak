@@ -1,9 +1,9 @@
 {
-	"wwwAddress": "0.0.0.0",
+	"wwwAddress": "localhost",
 	"wwwPort": 8080,
-	"serviceAddress": "0.0.0.0",
+	"serviceAddress": "localhost",
 	"servicePort": 8085,
-	"smtpAddress": "0.0.0.0",
+	"smtpAddress": "localhost",
 	"smtpPort": 2500,
 	"dbEngine": "SQLite",
 	"dbHost": "",
