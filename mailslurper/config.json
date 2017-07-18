@@ -1,5 +1,5 @@
 {
-	"wwwAddress": "0.0.0.0",
+	"wwwAddress": "mail-mail1.192.168.64.2.nip.io",
 	"wwwPort": 8080,
 	"serviceAddress": "0.0.0.0",
 	"servicePort": 8085,
