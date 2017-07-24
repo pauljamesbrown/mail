@@ -1,7 +1,7 @@
 {
 	"wwwAddress": "0.0.0.0",
 	"wwwPort": 8080,
-	"serviceAddress": "0.0.0.0",
+	"serviceAddress": "mail.mail1.svc",
 	"servicePort": 8085,
 	"smtpAddress": "0.0.0.0",
 	"smtpPort": 2500,
